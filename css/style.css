@@ -535,6 +535,10 @@ nav ul li a:hover{
         font-size: 1.4rem;
     }
 
+    .subtitulo-main{
+        font-size: 2rem;
+    }
+
     .caja-demos{
         grid-template-columns: 1fr 1fr;
     }
@@ -552,15 +556,15 @@ nav ul li a:hover{
     }
 
     .caja-div{
-        width: 22.6rem;
+        width: 18rem;
     }
 
     .h2-final {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .h3-final {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
         
     }
 
