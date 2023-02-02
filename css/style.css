@@ -516,17 +516,6 @@ nav ul li a:hover{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* MEDIA CELULAR */
 
 @media (max-width: 600px){
@@ -551,7 +540,19 @@ nav ul li a:hover{
     }
 
     .theme-features-grid{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
+    }
+
+    .contenedor-plug{
+        grid-template-columns: 1fr;
+    }
+
+    .box-users{
+        grid-template-columns: 1fr;
+    }
+
+    .caja-div{
+        width: 30rem;
     }
 
 }
