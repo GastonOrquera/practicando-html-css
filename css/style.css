@@ -552,7 +552,18 @@ nav ul li a:hover{
     }
 
     .caja-div{
-        width: 30rem;
+        width: 22.6rem;
     }
+
+    .h2-final {
+        font-size: 2rem;
+    }
+
+    .h3-final {
+        font-size: 1.6rem;
+        
+    }
+
+
 
 }
