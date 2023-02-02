@@ -97,6 +97,7 @@ nav ul li a:hover{
     color: rgb(0, 0, 0);
     border: 2px solid rgb(0, 0, 0);
     background-color: #fff;
+    transition: 1s;
 }
 
 .demo-contenedor{
