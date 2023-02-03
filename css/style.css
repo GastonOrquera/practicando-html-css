@@ -12,12 +12,17 @@ html{
     scroll-behavior: smooth;
 }
 
+header, .main-section{
+    background-repeat: no-repeat;
+    background-image: radial-gradient(circle at 50% -20.71%, #2c555e 0, #2d5056 8.33%, #2e4a4d 16.67%, #2f4444 25%, #2f3d3c 33.33%, #2e3534 41.67%, #2d2d2d 50%, #2b2527 58.33%, #281e22 66.67%, #24171f 75%, #20111d 83.33%, #1d0b1b 91.67%, #19031b 100%);
+}
+
 header{
     padding: 2rem 4rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(25, 25, 25, 0.832);
+    /* background-color: rgba(25, 25, 25, 0.832); */
     /* background-repeat: no-repeat; */
     /* background-image: radial-gradient(circle at 50% -20.71%, #2c555e 0, #2d5056 8.33%, #2e4a4d 16.67%, #2f4444 25%, #2f3d3c 33.33%, #2e3534 41.67%, #2d2d2d 50%, #2b2527 58.33%, #281e22 66.67%); */
 }
@@ -58,9 +63,6 @@ nav ul li a:hover{
     align-items: center;
     flex-direction: column;
     font-family: 'Oswald', sans-serif;
-    box-shadow: 0px 0px 8px black;
-    background-repeat: no-repeat;
-    background-image: radial-gradient(circle at 50% -20.71%, #2c555e 0, #2d5056 8.33%, #2e4a4d 16.67%, #2f4444 25%, #2f3d3c 33.33%, #2e3534 41.67%, #2d2d2d 50%, #2b2527 58.33%, #281e22 66.67%, #24171f 75%, #20111d 83.33%, #1d0b1b 91.67%, #19031b 100%);
 }
 
 
